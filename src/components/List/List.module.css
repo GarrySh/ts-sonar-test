@@ -1,0 +1,6 @@
+.section {
+  display: flex;
+  flex-flow: row wrap;
+  padding: 50px;
+  background-color: cadetblue;
+}
